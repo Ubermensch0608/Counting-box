@@ -1,0 +1,10 @@
+@media screen {
+    header{
+        display: flexbox;
+        font-size: 40px;
+    }
+    h1{
+        font-size: 20px;
+        display: flexbox;
+    }
+}
